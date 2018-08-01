@@ -1,0 +1,13 @@
+.title {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #963A46}
+.links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #660000; text-decoration: none}
+.subtitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #A75963}
+.bullet {  list-style-image:  url(images/bullet.jpg)}
+.text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px}
+a:hover {  color: #660000; text-decoration: none}
+.footer { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal; color: #FFFFFF; font-weight: normal; text-decoration: none}
+.links:hover { color: #660000}
+.footer:hover { color: #FFFFFF}
+.input {  color: #963A46; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;}
+.header {  font-family: Denmark; font-size: 27px; color: #FFFFFF}
+.menutext {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF; font-weight: bold; text-decoration: none}
+.menutext:hover { color: #FFCC99}

@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+body,td,th {
+	color: #DDD;
+}
+-->
+</style></head>
+
+<body>
+<center>
+<center> <h2><font color="ffffff">TKE Contact Form</font></h2></center>
+<br />
+<form name="ContactUs" id="pi-ep_contact" method="post" action="mail.php">
+  <table width="459" border="0" cellspacing="0" cellpadding="2">
+    <tr>
+      <td width="61" align="right">Name</td>
+      <td width="390"><input type="text" name="Name" size="50"></td>
+
+    </tr>
+    <tr>
+      <td align="right">E-mail</td>
+      <td><input type="text" name="EMail" size="50"></td>
+    </tr>
+    <tr>
+      <td align="right">Address</td>
+      <td><input type="address" name="Address" size="50"></td>
+
+    </tr>
+    <tr>
+      <td align="right">City</td>
+      <td><input type="text" name="City" size="32"> State <input type="text" name="State" size="2"></td>
+    </tr>
+	<tr>
+	  <td align="right">Zip Code</td>
+
+	  <td><input type="text" name="Zip" size="7">Phone Number <input type="text" name="Phone" size="13"></td>
+	</tr>
+	<tr>
+	  <td align="right">I'm A</td>
+	  <td><select name="I_Am:" size="1">
+	  		<option>please select...</option>
+			<option>Concerned Parent</option>
+
+			<option>Incomming Freshmen</option>
+			<option>High School Student</option>
+			<option>College Student</option>
+			<option>Alumni</option>
+			<option>TKE Legacy</option>
+			<option>Un-Available Option</option>	  
+	      </select></td>
+
+	</tr>
+	<tr>
+	  <td align="right">Concerns</td>
+	  <td><select name="Concerns:" size="1">
+	  		<option>please select...</option>
+	  		<option>Comment</option>
+			<option>Question</option>
+
+			<option>Complaint</option>
+			<option>Rush</option>
+			<option>Pledging</option>
+			<option>A Member</option>
+			<option>A Pledge</option>
+			<option>An Alumni</option>
+
+			<option>Website</option>
+			<option>TKE</option>
+			<option>Pi-Epsilon</option>
+			<option>Other</option>
+	      </select></td>
+	</tr>
+	<tr>
+	  <td align="right">Comments</td>
+	  <td><textarea cols="50" rows="5" name="Comments"></textarea></td>
+	</tr>
+	
+	
+	
+    <tr>
+      <td align="right">&nbsp;</td>
+      <td><center><input type="submit" name="Submit" value="Submit" /> 
+	              <input type="Reset"></center>
+	      <input name="recipient" type="hidden" value="lglenn@cbu.edu" /> 
+          <input name="subject" type="hidden" value="QUESTION: Comments about Pi-Ep" />
+
+		  <input name="required" type="hidden" value="Name,EMail,Phone" />
+          <input name="errorpage" type="hidden" value="http://www.pi-ep.com/404.html" /> </td>
+    </tr>
+	
+  </table>
+  </form>
+  </center>
+
+</body>
+</html>

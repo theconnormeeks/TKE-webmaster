@@ -1,0 +1,467 @@
+001:John Huffman                :FOU:AL:Lord                     :  :   : :
+002:Eric Barnhart               :FOU:AL:Cockroach                :  :   : :
+003:Felix Bishop                :FOU:AL:Felix                    :  :   : :
+004:Donnie Weathers             :FOU:AL:E Z                      :  :   : :
+005:Matt Mulroy                 :FOU:AL:Irish                    :  :   : :
+006:Ken Forsythe                :FOU:AL:Hot Dog                  :  :   : :
+007:Paul Morgan                 :FOU:AL:Fuzzy                    :  :   : :
+008:Patrick O'Roark             :FOU:AL:Rork                     :  :   : :
+009:Robert Romeo                :FOU:AL:Horse                    :  :   : :
+010:Frank Niedzwiedz            :FOU:AL:Tank                     :  :   : :
+011:Steven Manly                :FOU:AL:Snuffy                   :  :   : :
+012:Steve Winzerling            :FOU:AL:Kraut                    :  :   : :
+013:Mark Miller                 :FOU:AL:Bozo                     :  :   : :
+014:Terry Westbrook             :FOU:AL:Redneck                  :  :   : :
+015:Russell Baker               :FOU:AL:P P                      :  :   : :
+016:Charles Grisamore           :FOU:AL:Ringo                    :  :   : :
+017:Russell Williamson II       :FOU:AL:Legs                     :  :   : :
+018:Walter Steele               :FOU:AL:Sundown                  :  :   : :
+019:Jeffrey Williamson          :FOU:AL:Gator                    :  :   : :
+020:Manuel Campos               :FOU:AL:Spaniel                  :  :   : :
+021:Kevin Lawrence              :FOU:AL:California               :  :   : :
+022:Rob Kamery                  :HON:AL:F F                      :  :   : :
+023:Bill Briggs                 :FOU:AL:Babyface                 :  :   : :
+024:Ronald Moore                :FOU:AL:Moron                    :  :   : :
+025:Stephen Roberts             :FOU:AL:Shades                   :  :   : :
+026:Jacques Miller              :HON:AL:Dad                      :  :   : :
+027:Kevin Yap                   :FOU:AL:Yapp                     :  :   : :
+028:Bro. Tony Pisano            :HON:AL:Stallion                 :  :   : :
+029:Phillip Zaricor             :FOU:AL:Zorro                    :  :   : :
+030:Robert DesJardins           :019:AL:D J                      :  :   : :
+031:James Watkins III           :009:AL:Boss Hogg                :  :   : :
+032:Anthony Burdick             :008:AL:Sivad                    :  :   : :
+033:George Seeto                :003:AL:Eggroll                  :  :   : :
+034:Mark Dziuk                  :006:AL:Box                      :  :   : :
+035:Edward Turner               :001:AL:Canook                   :  :   : :
+036:Ernest Staubs               :017:AL:Spock                    :  :   : :
+037:William Turk                :013:AL:Otter                    :  :   : :
+038:Christopher Camacho         :005:AL:Macho                    :  :   : :
+039:Anthony Eggers              :034:AL:Zeke                     :  :   : :
+040:Paul Brown III              :030:AL:Flash                    :  :   : :
+041:Michael Counce              :001:AL:E P                      :  :   : :
+042:Paul Smallwood III          :032:AL:Jellybean                :  :   : :
+043:Scott Reynders              :008:AL:Scooter                  :  :   : :
+044:Mark Bordwell               :007:AL:Scruples                 :  :   : :
+045:Mark Baker                  :001:AL:Oui Oui                  :  :   : :
+046:William Smith               :031:AL:Wild Bill                :  :   : :
+047:Mark Terry                  :014:AL:Bulldog                  :  :   : :
+048:Mark Drendel                :001:AL:Polo                     :  :   : :
+049:Darrell Stacey              :029:AL:Bobcat                   :  :   : :
+050:Frank Anderson              :005:AL:Yogi                     :  :   : :
+051:Robert Stacey               :HON:AL:Moe                      :  :   : :
+052:Phil Jenkins                :014:AL:Frisco                   :  :   : :
+053:Paul Brown Jr.              :HON:AL:Larry                    :  :   : :
+054:Bruce Martin                :049:AL:Clyde                    :  :   : :
+055:David Gustus                :047:AL:Hulk                     :  :   : :
+056:James Collins               :009:AL:Tom                      :  :   : :
+057:Kenneth Covington           :040:AL:Saint                    :  :   : :
+058:Daniel Buchner              :050:AL:Buck                     :  :   : :
+059:Anthony Trotter             :039:AL:Doc                      :  :   : :
+060:Robert DesJardins Sr.       :HON:AL:Curly                    :  :   : :
+061:Steve Hefner                :034:AL:Country                  :  :   : :
+062:William Kenneth Hall        :050:AL:Boo Boo                  :  :   : :
+063:John Vincent                :043:AL:Hollywood                :  :   : :
+064:Mike Bell                   :001:AL:Taco                     :  :   : :
+065:Bradley Monson              :033:AL:Ace                      :  :   : :
+066:Gerald Hodge                :030:AL:Porky                    :  :   : :
+067:James Ellis                 :033:AL:Yahoo                    :  :   : :
+068:John Smithson               :063:AL:Ike                      :  :   : :
+069:Mark Burton                 :050:AL:Koala                    :  :   : :
+070:Gregory Gadomski            :017:AL:Skippy                   :  :   : :
+071:Robert Michael Blancett     :062:AL:Mr. Ranger               :  :   : :
+072:Mark Hooper                 :052:AL:Spazz                    :  :   : :
+073:Mark Woodward               :020:AL:Redbeard                 :  :   : :
+074:Jon Foshee                  :052:AL:Touchee'                 :  :   : :
+075:Randy Enloe                 :047:AL:Cajun                    :  :   : :
+076:Aaron Graves                :055:AL:Bluto                    :  :   : :
+077:Douglass Krone              :017:AL:Fingers                  :  :   : :
+078:Kenneth Vrooman             :058:AL:Cadet                    :  :   : :
+079:William Stoddard            :039:AL:Quantum                  :  :   : :
+080:Mark Gaines                 :001:AL:Burger                   :  :   : :
+081:William Freeman             :056:AL:Buzz                     :  :   : :
+082:John Griffin                :063:AL:Phantom                  :  :   : :
+083:Richard Jenkins             :065:AL:Deuce                    :  :   : :
+084:Curtis Finn                 :066:AL:Dorsal                   :  :   : :
+085:Kevin Pecha                 :006:AL:Corndog                  :  :   : :
+086:Stewart Galloway            :073:AL:Machine                  :  :   : :
+087:Jack Nagel                  :063:AL:Mehoff                   :  :   : :
+088:Kosta Varnavas              :054:AL:20 Dolla'                :  :   : :
+089:Tim Hill                    :047:AL:Mole                     :  :   : :
+090:John Harris                 :055:AL:Cruiser                  :  :   : :
+091:Doug Huey                   :076:AL:Duck                     :  :   : :
+092:Steve Brown                 :062:AL:Polar                    :  :   : :
+093:Don Fisher                  :058:AL:The Wall                 :  :   : :
+094:Reed Maier                  :082:AL:Ghost                    :  :   : :
+095:Andy Melia                  :081:AL:Sensa                    :  :   : :
+096:Robert Volz                 :069:AL:Wagon                    :  :   : :
+097:Richie Bohannon             :074:AL:Bohemian                 :  :   : :
+098:Dr. Conrad Brombach         :HON:AL:Guido                    :  :   : :
+099:James Collins, Sr.          :HON:AL:Vodka                    :  :   : :
+100:Randall Fesmire             :082:AL:Spook                    :  :   : :
+101:Paul Jordan                 :084:AL:Huckleberry              :  :   : :
+102:Christopher Erk             :093:AL:Sgt. Pepper              :  :   : :
+103:Troy McCall                 :054:AL:George                   :  :   : :
+104:Robert Harper III           :095:AL:Clayton                  :  :   : :
+105:Robert Gantt                :094:AL:Deutchman                :  :   : :
+106:John Willis                 :086:AL:Lurch                    :  :   : :
+107:Joseph Jones II             :071:AL:Mama                     :  :   : :
+108:Thomas Michael Selph        :070:AL:Fiff                     :  :   : :
+109:James Richard Huffman       :076:AL:Biggus                   :  :   : :
+110:Thomas Dowling              :066:AL:Wilbur                   :  :   : :
+111:Ronald Kastner              :006:AL:Beaver                   :  :   : :
+112:Tom Francis                 :069:AL:Beaker                   :  :   : :
+113:James Varnavas              :102:AL:Stump                    :  :   : :
+114:Frank Campagna              :091:AL:Jugdish                  :  :   : :
+115:Derek Dorroh                :088:AL:Thundar                  :  :   : :
+116:Michael "Mac" Rowan         :100:AL:The Knife                :  :   : :
+117:Larry Lancaster Jr.         :076:AL:Velcro                   :  :   : :
+118:Mark Francis                :105:AL:Dophus                   :  :   : :
+119:Jason Gaia                  :066:AL:Argonaut                 :  :   : :
+120:Bro. Joel Baumeyer          :HON:AL:B.J.                     :  :   : :
+121:Dr. Vincent O'Neill         :HON:AL:Gonzo                    :  :   : :
+122:David Wells III             :084:AL:Picasso                  :  :   : :
+123:David Waldrip               :059:AL:Battle Axe               :  :   : :
+124:Russell Palmer              :106:AL:Rho-Z                    :  :   : :
+125:Christopher Murphy          :095:AL:Flem                     :  :   : :
+126:Wes Parker                  :090:AL:Roger                    :  :   : :
+127:William Armes               :089:AL:A-Main                   :  :   : :
+128:Archie Fisher               :HON:AL:The Roof                 :  :   : :
+129:Steve Ferguson              :100:AL:Gomer                    :  :   : :
+130:Dennis Willey               :088:AL:Bumpkin                  :  :   : :
+131:Paul Schwartz               :102:AL:Goitre                   :  :   : :
+132:Troy Simmons                :091:AL:Pterodactyl              :  :   : :
+133:Tai Nguyen                  :118:AL:Rufus                    :  :   : :
+134:Allen Elliotte              :114:AL:Jughead                  :  :   : :
+135:Steven Duffel               :104:AL:The Noid                 :  :   : :
+136:Todd Cox                    :122:AL:Wad                      :  :   : :
+137:Montgomery James            :110:AL:Nee                      :  :   : :
+138:Bro. Armand Alcazar         :HON:AL:Hammer                   :  :   : :
+139:Carroll Wheatley            :HON:AL:Big Daddy                :  :   : :
+140:Marvin Szeto                :133:AL:Long Duck Dong           :  :   : :
+141:Cary Gilmer                 :124:AL:Pan-Z                    :  :   : :
+142:William Stonecipher         :106:AL:SOS                      :  :   : :
+143:Ross Lamberth               :066:AL:Troll                    :  :   : :
+144:John Crider III             :122:AL:Tucker                   :  :   : :
+145:J.R. Hill                   :HON:AL:Any                      :  :   : :
+146:Tim Burnett                 :135:AL:Flounder                 :  :   : :
+147:Fred Choate                 :117:AL:Bam Bam                  :  :   : :
+148:Kevin Franz                 :127:AL:Okie                     :  :   : :
+149:Steven Zanone               :112:AL:Monkey                   :  :   : :
+150:Eric Beaupre                :076:AL:Potsey-Potato Head       :  :   : :
+151:Dale King                   :137:AL:Mooncricket              :  :   : :
+152:Robert Graning II           :110:AL:Rerun                    :  :   : :
+153:Paul Jeffery Adams          :123:AL:Dewayne                  :  :   : :
+154:John Molitor                :076:AL:Rodge                    :  :   : :
+155:Bobby Krumhansl             :109:AL:Jethro                   :  :   : :
+156:Drew Koester                :129:AL:Loughie                  :  :   : :
+157:Mark Tucker                 :152:AL:Runt                     :  :   : :
+158:Roger Russell II            :144:AL:Horace                   :  :   : :
+159:Hamp McCary                 :146:AL:Joystick                 :  :   : :
+160:Benny Trammel               :122:AL:Pugsley                  :  :   : :
+161:Mark Fleck                  :149:AL:Moses                    :  :   : :
+162:Ken Boswell                 :148:AL:Frayser                  :  :   : :
+163:Victor Carrozza             :134:AL:Stork                    :  :   :Y:
+164:Gregory Korb                :153:AL:Sloggo                   :  :   : :
+165:Broderick Christoff         :125:AL:Manson                   :  :   : :
+166:Mark Smith                  :HON:AL:Kojak                    :  :   : :
+167:Ross Harris Jr.             :142:AL:Lab Rat                  :  :   : :
+168:Michael Wardlow             :147:AL:Moe 2                    :  :   : :
+169:Joseph Knight               :125:AL:Archie                   :  :   : :
+170:Jason Kuns                  :162:AL:Frankenfurter            :  :   : :
+171:Scott Long                  :157:AL:Barney Fife              :  :   : :
+172:David Hanson                :150:AL:Bugtussle                :  :   : :
+173:Jeff Parker                 :155:AL:Postmaster               :  :   : :
+174:Jeremy Durel                :113:AL:Log                      :  :   : :
+175:David Thomas                :134:AL:Mud Duck                 :  :   : :
+176:Rick Gussler                :164:AL:Meat Loaf                :  :   : :
+177:Mike McKinney               :122:AL:Opie                     :  :   : :
+178:John Angel                  :156:AL:Travolta                 :  :   : :
+179:Kenny Branscum              :161:AL:Mr. Bates                :  :   : :
+180:David Allen                 :165:AL:Nick                     :  :   : :
+181:Michael Ryan                :109:AL:Ralph Malph              :  :   : :
+182:Anthony DelRosario          :160:AL:Sam I Am                 :  :   : :
+183:Brian Miller                :001:AL:Elvis                    :  :   : :
+184:Thomas Lovelace             :141:AL:Tip-Z                    :  :   : :
+185:Joseph Kueter               :156:AL:Dip Stick                :  :   : :
+186:Brian Rabel                 :156:AL:Mike                     :  :   : :
+187:Dan Molenda                 :122:AL:Van Gogh                 :  :   : :
+188:Nils Stengel                :184:AL:Greenpeace               :  :   : :
+189:Ronald Reagan               :HON:AL:Dutch                    :  :   : :
+190:John Wilson                 :167:AL:Kermit                   :  :   : :
+191:Dean Halijan                :159:AL:Jose' Concrete           :  :   : :
+192:Scott Tyrrell               :150:AL:Inspector Gadget         :  :   : :
+193:Brian Jackson               :165:AL:Jesse                    :  :   : :
+194:Tony Young                  :186:AL:Fozzie                   :  :   : :
+195:Chris Ensley                :181:AL:Portugal                 :  :   : :
+196:Tripp Bruce                 :156:AL:Shroom                   :  :   : :
+197:Christopher Dress           :122:AL:Slim-Fast                :  :   : :
+198:Chad Angel                  :173:AL:Siskel                   :  :   : :
+199:Patrick Siglin              :188:AL:Don Ho                   :  :   : :
+200:Jeff Thomas                 :174:AL:Driftwood                :  :   : :
+201:Greg Hefner                 :178:AL:Ebert                    :  :   : :
+202:Edward Jolly                :155:AL:Ed-O                     :  :   : :
+203:Mark Senderak               :161:AL:Sneech on a Beach        :  :   : :
+204:John Dress                  :191:AL:Blowfish                 :  :   : :
+205:Joe Godlewski               :201:AL:Frazier Crane            :  :   : :
+206:Chris Beech                 :197:AL:Cockpit                  :  :   : :
+207:Heath Abshure               :196:AL:Magic                    :  :   : :
+208:Jack Griffith               :195:AL:Mehoff 2                 :  :   : :
+209:Brian Boeckmann             :172:AL:Buck Adams               :  :   : :
+210:Bob Thompson                :198:AL:5 Founders               :  :   : :
+211:Kevin Floyd                 :187:AL:Claven                   :  :   : :
+212:Jason Pfeiffer              :194:AL:Norm                     :  :   : :
+213:Wayne Aden                  :188:AL:A.W.O.L.                 :  :   : :
+214:Chris Wilson                :200:AL:Woody                    :  :   : :
+215:Marcus Norris               :192:AL:The Plug                 :  :   : :
+216:Jerry Tuznik                :155:AL:IckyIckyIckywacapatang-O :  :   : :
+217:Troy Burk                   :203:AL:Baby Beaver              :  :   : :
+218:Wayne Hill                  :185:AL:Uecker                   :  :   : :
+219:David Russell               :001:AL:Samurai                  :  :   : :
+220:Jeff Anderson               :207:AL:Sphincter                :  :   : :
+221:David Patel                 :204:AL:Red Dot                  :  :   : :
+222:Jonathan Curt               :210:AL:Uncle Fester             :  :   : :
+223:Daniel Thompson             :HON:AL:Mr. Mom                  :  :   : :
+224:Adrian Perez                :192:AL:Eat the Worm             :  :   : :
+225:Mason Grashot               :212:AL:3 Day Lover              :  :   : :
+226:Daniel Kueter               :215:AL:Nose Ring                :  :   : :
+227:Jimmy Fleck                 :209:AL:Bambi on the Rocks       :  :   : :
+228:Frank Kratofil              :221:AL:Pre-Nut                  :  :   : :
+229:Chris Bramlett              :220:AL:Stimpy                   :  :   : :
+230:Craig Cameron               :207:AL:Hin-Doo-Doo              :  :   : :
+231:Steve Heigel                :196:AL:Plain Dude               :  :   : :
+232:Jonathan Williams           :204:AL:Filet-O-Fish             :  :   : :
+233:Chris Campbell              :185:AL:Georgie Porgie           :  :   : :
+234:Jorge Ramirez               :203:AL:Chia Pet                 :  :   : :
+235:Doug Kranz                  :216:AL:Barb-O                   :  :   : :
+236:Bro. Matt Szatowski         :HON:AL:Stogie                   :  :   : :
+237:Doug Chaney                 :234:AL:Chuckles                 :  :   : :
+238:Robert Baumer               :HON:AL:Nick                     :  :   : :
+239:Harold Hanson               :HON:AL:Craps                    :  :   : :
+240:David Santos                :227:AL:Oreo Speedway            :  :   : :
+241:Richard Bourland            :216:AL:Ric-O                    :  :   : :
+242:Doug Dust                   :224:AL:Dusty Bottoms            :  :   : :
+243:Tom Roth                    :207:AL:Squeaky                  :  :   : :
+244:Bryan Sexton                :222:AL:Koresh                   :  :   : :
+245:Phil Kirby                  :212:AL:Sunrise                  :  :   : :
+246:Paul Kind                   :230:AL:Kanga                    :  :   : :
+247:Robert Schwarz              :240:AL:Slumlord                 :  :   : :
+248:Vishnu Ganta                :242:AL:Curious George           :  :   : :
+249:Jeff Brown                  :216:AL:Dump-O                   :  :   : :
+250:Jerry Holt                  :207:AL:Dopey                    :  :   : :
+251:Donny Bishop                :221:AL:Post-Nut                 :  :   : :
+252:Bill Allen                  :230:AL:Pale-Rider               :  :   : :
+253:Thomas Abell                :244:AL:Cooter                   :  :   : :
+254:Clay Carroll                :AAA:AL:Paris                    :  :   : :
+255:Russell Nadicksbernd        :226:AL:Pedobunny                :  :   : :
+256:Mark Nicolas                :232:AL:Phish                    :  :   : :
+257:Rodney Paullus              :243:AL:Stairmaster              :  :   : :
+258:Chris George                :227:AL:Elmer Fudd               :  :   : :
+259:Mike Moskal                 :203:AL:Lola                     :  :   : :
+260:Keith Wanzeck               :215:AL:616                      :  :   : :
+261:Tate Brown                  :257:AL:Stewart                  :  :   : :
+262:Matt Clark                  :255:AL:E. Coli                  :  :   : :
+263:John Rose                   :256:AL:Creamy Fish Lips         :  :   : :
+264:Stefan Cobb                 :243:AL:Slater                   :  :   : :
+265:Clay Bunch                  :255:AL:French Tickler           :  :   : :
+266:Matt Dress                  :257:AL:Boner                    :  :   : :
+267:Dan Messinger               :262:AL:Mr. Howell               :  :   : :
+268:Jonah Blossom               :250:AL:Sperm Whale              :  :   : :
+269:Gene Tuznik                 :244:AL:Jerry's Kid              :  :   : :
+270:Matt Harmon                 :249:AL:Chunk-O                  :  :   : :
+271:Brad McCormack              :251:AL:Sir Nuts-a-Lot           :  :   : :
+272:Shawn Williams              :250:AL:2"                       :  :   : :
+273:Br. Matt Smith              :HON:AL:Bunsen Honeydew          :  :   : :
+274:Jason Vairin                :247:AL:Tung Fu                  :  :   : :
+275:Spencer Nadicksbernd        :264:AL:Chevrolet                :  :   : :
+276:David Swaney                :221:AL:Powder                   :  :   : :
+277:Chris Bradow                :267:AL:Lassie                   :  :   : :
+278:Larry Hedrick               :266:AL:Marlboro                 :  :   : :
+279:Adam Tusing                 :252:AL:Silent Bob               :  :   : :
+280:Kevin Lowry                 :262:AL:Nickelburger             :  :   : :
+281:Jimmy Randall               :253:AL:Tolkien                  :  :   : :
+282:Bryan Sullins               :265:AL:Squid                    :  :   : :
+283:Donnie Fischer              :263:AL:Fried Fish               :  :   : :
+284:Joshua Shipley              :279:AL:Bubba Gump               :  :   : :
+285:Zach Taylor                 :266:AL:Ritalin                  :  :   : :
+286:Patrick Laughlin            :244:AL:McCrotch                 :  :   : :
+287:Mike Goughnour              :255:AL:Corky                    :  :   : :
+288:Brad Brumley                :247:AL:Skunk                    :  :   : :
+289:Chris Hines                 :276:AL:Doggie Style             :  :   : :
+290:Joe Green                   :256:AL:Deep Dish                :  :   : :
+291:Adam Prasifka               :257:AL:Doberman                 :  :   : :
+292:Matt Norville               :275:AL:Ellen                    :  :   : :
+293:Aaron Yacavone              :242:AL:LBJ                      :  :   : :
+294:Josh McNary                 :253:AL:Captain Planet           :  :   : :
+295:Mike McDonald               :293:AL:Freedom Fighter          :  :   : :
+296:Chris Vick                  :286:AL:Sniper                   :  :   : :
+297:Jake Zanoff                 :278:AL:James Brown              :  :   : :
+298:Chris Masterson             :275:AL:Mary                     :  :   : :
+299:Brian Moddrell              :259:AL:Sharp Shooter            :  :   : :
+300:Dustin Scobey               :263:AL:Tricky Dick              :  :   : :
+301:Justin Hodges               :274:AL:Spanish Fly              :  :   : :
+302:Thomas Torrent              :292:AL:TAFKAP                   :  :   : :
+303:Garrett Martin              :298:AL:Ben Stein                :  :   : :
+304:David Arrington             :290:AL:Hillary                  :  :   : :
+305:Robert Wadley               :299:AL:Polaroid                 :  :   : :
+306:Bimal Shah                  :285:AL:Cadillac Jack            :  :   : :
+307:Michael Schoen              :283:AL:Coonass                  :  :   : :
+308:Vishal Bijlani              :306:AL:Magic Carpet Ride        :  :   : :
+309:Al Waineo                   :298:AL:Mr. Miyagi               :  :   : :
+310:Seth Seaton                 :290:AL:Special K                :  :   : :
+311:Bill Kiesel                 :283:AL:Sweaty                   :  :   : :
+312:Jack Bankston               :303:AL:Speedy                   :  :   : :
+313:Travis Huggins              :304:AL:Brother Booty            :  :   : :
+314:Lawrence LeBlond            :302:AL:Twinkie                  :  :   : :
+315:Andrew Mullis               :297:AL:Uncle Tom                :  :   : :
+316:Brian York                  :296:AL:Leprechaun               :  :   : :
+317:Chuck Lawrence              :309:AL:Stalin                   :  :   : :
+318:Ben Moore                   :311:AL:Kyle                     :  :   : :
+319:Nick Montgomery             :296:AL:Chastity                 :  :   : :
+320:Matt Gage                   :313:AL:Chewy                    :  :   : :
+321:James Moranville            :304:AL:Pig Pen                  :  :   : :
+322:Chuck Bogan                 :316:AL:Beavis                   :  :   : :
+323:Jason Hardy                 :294:AL:Poly-grip                :  :   : :
+324:Adam Stambaugh              :308:AL:Troll Card               :  :   : :
+325:Sam Vitale                  :306:AL:Eggplant                 :  :   : :
+326:Pat Zimmerman               :315:AL:Laughlin                 :  :   : :
+327:Nathan Oppenheimer          :300:AL:Andretti                 :  :   : :
+328:Michael Weirich             :285:AL:Salad                    :  :   : :
+329:David Walters               :290:AL:Dancing Queen            :  :   : :
+330:Tommy Roy                   :310:AL:GTA                      :  :   : :
+331:Ray Karasek                 :283:AL:Got Head?                :  :   : :
+332:Josh Brewer                 :284:AL:Sloth                    :  :   : :
+333:Matt Moskal                 :314:AL:201 Poplar               :  :   : :
+334:Chris Helm                  :317:AL:Bling Bling              :  :   : :
+335:David McKenzie              :309:AL:POSC                     :  :   : :
+336:Matt Buckman                :322:AL:Gillette                 :  :   : :
+337:Thomas Lahr                 :325:AL:ODB                      :  :   : :
+338:John Botto                  :307:AL:Booger                   :  :   : :
+339:Timothy Wardlow             :322:AL:Hot Carl                 :  :   : :
+340:Paul Jones                  :324:AL:Big Pun                  :  :   : :
+341:Donald Lowe                 :309:AL:Dildo                    :  :   : :
+342:Nathan Clarke               :332:AL:Uni                      :  :   : :
+343:BJ Cook                     :330:AL:Bucky                    :  :   : :
+344:Bob Possel                  :313:AL:Luke                     :  :   : :
+345:Bill Ellis                  :331:AL:Brut                     :  :   : :
+346:Jeffrey Bodeen              :303:AL:Poindexter               :  :   : :
+347:Michael Spiotta             :326:AL:Nips                     :  :   : :
+348:John Raffanti               :290:AL:Cricket                  :  :   : :
+351:Gram Boomer                 :343:AL:Dutch Over               :  :   : :
+353:Aaron D'Souza               :351:AL:Porno                    :  :   : :
+354:Sandeep Gonsalves           :320:AL:Wacky                    :  :   : :
+355:Matt Sullivan               :342:AL:F.O.A.L.                 :  :   : : 
+356:Scott Coll                  :346:AL:Prom Queen               :  :   : :
+357:B.J. Miller                 :312:AL:Shrek                    :  :   : :
+358:Lamar Rutland               :311:AL:Lamar County             :  :   : :
+359:Kyle Markway                :358:AL:Alamo                    :  :   : :
+360:Bobby Lawrence              :347:AL:Charmin                  :  :   : :
+361:John Paul Masterson         :332:AL:Suds                     :  :   : :
+362:Jared Scott                 :341:AL:Bitch                    :  :   : :
+363:Lee Allen                   :332:AL:P.M.S.                   :  :   : :
+364:Stephen Tate                :317:AL:Hat Trick                :  :   : :
+365:Brandon Scharfetter         :312:AL:British                  :  :   : :
+366:Chris Reid                  :325:AL:Carlton                  :  :   : :
+367:Frank Ramirez               :325:AL:Tank                     :  :   : :
+368:Michael Zepatos             :339:AL:Blumpkin                 :  :   : :
+369:Eric Davis                  :356:AL:Popov                    :  :   : :
+370:Matt Mueller                :321:AL:Denim Dan                :  :   : :
+371:Taylor Pearcy               :342:AL:Coin Toss                :  :   : :
+372:Geoff Nikiel                :315:AL:Touretts                 :  :   : :
+373:Russel Dykes                :344:AL:Blue Oyster              :  :   : :
+374:Timothy Sager               :355:AL:Foot Loose               :  :   : :
+375:Nick Rogers                 :353:AL:Osama Bin Nizzle         :  :   : :
+376:Jay McDonald                :338:AL:Ronald                   :  :   : :
+377:Ryan Cleary                 :346:AL:Big Red                  :  :   : :
+378:Kevin Smith                 :313:AL:Lunch Box                :  :   : :
+379:Will Bodeen                 :347:AL:Super Soaker             :  :   : :
+380:Gregory Ponton              :320:AL:Captain Obvious          :  :   : :
+381:Brother Allen Johnson       :HON:AL:Nutty Professor          :  :   : :
+382:Monty Botto                 :HON:AL:Diego                    :  :   : :
+383:Billy Oliver                :356:AL:Nookie Cookie            :  :   : :
+384:Matt Morgan                 :363:AL:Dr. Ruth                 :  :   : :
+385:Joe Parker                  :379:AL:Lumberjack               :  :   : :
+386:Andrew Diener               :HON:AL:???                      :  :   : :
+387:Dennis Merat                :HON:AL:???                      :  :   : :
+388:John Carrico                :379:AL:Snot Rocket              :  :   : :
+389:Tim Miller                  :367:AL:Queer Eye                :  :   : :
+390:Josh Miles                  :339:AL:Chili Dog                :  :   : :
+391:Patrick Jones               :383:AL:Maurelian Jones          :  :   : :
+392:Daniel McFadden             :340:AL:Red Wings                :  :   : :
+393:Nick Turpin                 :369:AL:Garbage Disposal         :  :   : :
+394:Matt Harrell                :342:AL:Mr. Bodangles            :  :   : :
+395:Nick Zanella                :325:AC:On-Star                  :  :   : :
+396:Willson Phillips            :344:AL:C-Walk                   :  :   : :
+397:Paul Thompson               :378:AL:I'm Lovin' It            :  :   : :
+398:Aaron Lamey                 :376:AL:Hoveround                :  :   : :
+399:Rob Coleman                 :361:AL:Mr. Peepers              :  :   : :
+400:Kyle Summers                :359:AL:Brace Wigs               :  :   : :
+401:Christopher Drake           :392:AL:Dreamcatcher             :  :   : :
+402:Bruce Lycan, II             :395:AL:Maliboo                  :  :   : :
+403:Joseph McAlexander          :378:AC:Robin Hood               :  :   : :
+404:Steven Carlson              :369:AL:Queerbait                :  :   : :
+405:Antony Eddy                 :366:AC:Quagmire                 :  :   : :
+406:Brian Smith                 :359:AC:Bangbus                  :  :   : :
+407:Adimou Barry                :360:AL:Dango                    :  :   : :
+408:Brian Vernon                :391:AC:Senor Pee-Wee            :  :   : :
+409:Grey Dziuba                 :376:AC:Motorboat                :  :   : :
+410:Grant Wright                :394:AC:Moby                     :  :   : :
+411:Scott Berry                 :385:AC:Muddy River              :  :   : :
+412:Michael Ross                :362:AC:Jingle Bells             :  :   : :
+413:Jorden Estes                :375:AL:Milton                   :  :   : :
+414:Richard Gadomski            :HON:AL:???                      :  :   : :
+416:Greg Carrico                :361:AC:C.Lowell                 :  :   : :
+417:Terry Netzel                :394:AC:Upchuck                  :  :   : :
+418:Ian Withrow                 :409:AC:Struggles                :  :   : :
+419:Trey Powell                 :391:AC:Whacko Jacko             :  :   : :
+420:Robert Browning             :376:AL:Ms. Piggy                :  :   : :
+421:Patrick Louie               :405:AC:Snowball                 :  :   : :
+422:Ryan Nicolini               :360:AC:He Hate Me               :  :   : :
+423:Dan Neuhoff                 :406:AC:Sand Angel               :  :   : :
+424:Alex Geurin                 :395:AC:Pickles                  :  :   : :
+425:David Breen                 :393:AC:Main Stream              :  :   : :
+426:Eric Keenan                 :403:AL:Butters                  :  :   : :
+427:Keith Wyrick                :410:AC:Friend Zone              :  :   : :
+428:William Vestal              :385:AC:Water Fall               :  :   : :
+429:Silas Armstrong             :375:AC:Kotex                    :  :   : :
+430:Travis Benson               :412:AC:Brinks                   :  :   : :
+431:Dustin Nix                  :404:AC:Pre-Com                  :  :   : :
+432:John Lensing                :383:AC:Johannes                 :  :   : :
+433:Kevin Feltus                :359:AL:Dude Love                :  :   : :
+434:Daniel Benson               :396:AC:Cocoa Puffs              :  :   : :
+435:Ryan Smith                  :423:AL:R. Kelly                 :  :   : :
+436:Daniel Thompson             :397:AL:Cup Check                :  :   : :
+437:Chase de Saint-Felix        :409:AC:Meow                     :  :   : :
+438:Wesley Hall                 :422:AC:Goldberg                 :  :   : :
+439:Anthony Lawrence            :425:AC:Brokeback                :  :   : :
+440:Matt Warren                 :390:AC:Big Spoon                :  :   : :
+441:Max Karimnia                :417:AC:Lojack                   :  :   : :
+442:TJ Buckley                  :421:AC:Friendly Fire            :  :   : :
+443:Dennis Guy                  :398:AC:Buttercup                :  :   : :
+444:Jacob Zimmerman             :428:AC:Edison                   :  :   : :
+445:Jonathan Sharp II             :423:AC:Pud Muffin                  :  :   : :
+446:Nick Blankenship            :420:AC:Gary                     :  :   : :
+447:Ian Netzel                  :396:AC:Ace                      :  :   : :
+448:Michael Dewees              :418:AL:Jailbreak                :  :   : :
+449:Richard Boyette             :422:AC:Mulligan                 :  :   : :
+450:Kevin Boes                  :421:AC:Oedipus                  :  :   : :
+451:Chris Tran                  :444:AC:Chalrie                  :  :   : :
+454:Randy Butcher               :434:AC:Thud Butt                :  :   : :
+455:Aaron Craig                 :389:AC:Dora                     :  :   : :
+456:Brett Gaither                 :427:AC:Trail of Tears                     :  :   : :
+457:Robert Gibbs                  :425:AC: Road Warrior                      :  :   : :
+458:Collins Lipscomb                  :406:AC: Cloudy Sunshine                      :  :   : :
+459:Andrew Naranjo                  :445:AC: CMD                      :  :   : :
+460:Michael J. Berry                  :437:AC: Sir-Mix-A-Lot                       :  :   : :
+461:William Zachary                  :441:AC: Bob Sagat                      :  :   : :
+462:Josh Segovia                  :438:AC: Dirty Sanchez                      :  :   : :
+463:Michael Hankins                  :419:AC: Maury                      :  :   : :
+464:Scott Miller II                  :447:AC: O'Doyle                      :  :   : :
+465:Josh Neal                  :443:AC: Mr. Harrell                      :  :   : :
+466:David Vaughn                  :446:AC: Rufus                      :  :   : :
+467:Tanner Shanks                  :418:AC: Miller Time                      :  :   : :
+468:Rhett Jordan                  :439:AC: Double Pump                      :  :   : :
+469:Johnny Vo                  :438:AC: N2B                      :  :   : :
+470:James Nelson IV                  :428:AC: Mello Yello                      :  :   : :
+475:David Croenne                  :454:AC: Africa                      :  :   : :
+476:Jordan Marshall                  :430:AC: Super Freak                      :  :   : :
+AAA:Chris Albonetti             :TRA:AL:Bill                     :GK:804: :
